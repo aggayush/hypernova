@@ -1,4 +1,4 @@
-const hypernova = require('../../server');
+const hypernova = require('hypernova/server');
 
 hypernova({
   devMode: true,
